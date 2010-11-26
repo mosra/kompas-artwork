@@ -1,0 +1,38 @@
+General:
+
+    - about
+    - close
+
+Load/Save operations:
+
+    - open map package
+    - open online map
+    - open session
+    - move package up
+    - move package down
+
+Map interaction:
+
+    - zoom in
+    - zoom out
+    - move
+    - switch map view
+    - switch layer
+    - add/remove overlay
+
+Settings:
+
+    - configuration dialog
+    - plugin dialog
+
+Messageboxes:
+
+    - information
+    - question
+    - warning
+    - error
+
+Progress indicators:
+
+    - loading map tile / wizard progress (6 states)
+    - tile not found
