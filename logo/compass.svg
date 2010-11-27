@@ -18,7 +18,7 @@
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="compass.svg"
    enable-background="new"
-   inkscape:export-filename="/home/mosra/C++/map2x/qt/graphics/icon/compass.png"
+   inkscape:export-filename="/home/mosra/C++/map2x/artwork/logo/compass.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -58,14 +58,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="176.60791"
-     inkscape:cy="1116.7671"
+     inkscape:zoom="0.175"
+     inkscape:cx="-363.28943"
+     inkscape:cy="739.69578"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:snap-page="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1920"
      inkscape:window-height="1033"
      inkscape:window-x="-2"
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,13 +109,13 @@
     <image
        sodipodi:absref="/home/mosra/C++/map2x/artwork/logo/../sources/wood-texture_beiz.jp_L07245.jpg"
        xlink:href="../sources/wood-texture_beiz.jp_L07245.jpg"
-       width="3072"
-       height="2048"
-       id="image7194"
-       x="-376"
-       y="-994.49493"
+       transform="translate(0,995.63782)"
        style="display:inline"
-       transform="translate(0,995.63782)" />
+       y="-994.49493"
+       x="-376"
+       id="image7194"
+       height="2048"
+       width="3072" />
   </g>
   <g
      inkscape:label="Bg"
@@ -228,7 +228,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="text"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -323,8 +323,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Axes"
-     style="display:inline;filter:url(#filter7211)"
-     sodipodi:insensitive="true">
+     style="display:none;filter:url(#filter7211)">
     <path
        style="color:#000000;fill:#bc5004;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 526.45106,1020.6179 248.77447,-4.046 L 1024,993.08013 l 0,61.83977 -248.77447,-23.4917 -248.77447,-4.046 z"
@@ -400,6 +399,103 @@
        inkscape:transform-center-y="213.70074"
        id="use3842"
        transform="matrix(-1,0,0,-1,2048,2048)"
+       width="2048"
+       height="2048" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Axes 2"
+     style="display:inline">
+    <g
+       id="g3901"
+       transform="matrix(-1.6886157,0,0,2.4097513,2760.5005,-1444.3155)"
+       inkscape:transform-center-x="-358.52533"
+       inkscape:transform-center-y="-0.00012679738">
+      <path
+         inkscape:transform-center-y="3.5e-05"
+         inkscape:connector-curvature="0"
+         id="path3896"
+         d="M 604.03703,1024.5178 814.51849,996.69416 1025,968.87041 l 0,55.64739 0,55.6475 -210.48151,-27.8237 z"
+         inkscape:transform-center-x="70.160505"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:2.47866845;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.47866845;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:transform-center-x="70.160505"
+         d="m 604.03703,1024.5178 420.96297,0 0,55.6475 -210.48151,-27.8237 z"
+         id="path3899"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-y="3.5e-05" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3901"
+       inkscape:transform-center-x="-4.754781e-05"
+       id="use3907"
+       transform="matrix(0,-1,1,0,2.081,2051.1167)"
+       width="2048"
+       height="2048"
+       inkscape:transform-center-y="-1005.8378" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3901"
+       inkscape:transform-center-x="1005.8378"
+       id="use3912"
+       transform="matrix(-1,0,0,-1,2053.1976,2049.0357)"
+       width="2048"
+       height="2048"
+       inkscape:transform-center-y="-1.9513681e-05" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3901"
+       id="use3914"
+       transform="matrix(0,1,-1,0,2051.1167,-2.081)"
+       width="2048"
+       height="2048"
+       inkscape:transform-center-y="1005.8378"
+       inkscape:transform-center-x="-2.8e-05" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3901"
+       inkscape:transform-center-x="-583.76989"
+       inkscape:transform-center-y="-583.76994"
+       id="use3916"
+       transform="matrix(0.62589235,-0.62589235,0.62589235,0.62589235,-257.88427,1026.5252)"
+       width="2048"
+       height="2048" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3916"
+       inkscape:transform-center-x="168.57932"
+       inkscape:transform-center-y="-570.19597"
+       id="use3918"
+       transform="matrix(0,-1,1,0,-15.5784,2051.1167)"
+       width="2048"
+       height="2048" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3916"
+       inkscape:transform-center-x="570.19598"
+       inkscape:transform-center-y="168.57934"
+       id="use3922"
+       transform="matrix(-1,0,0,-1,2035.5383,2066.6951)"
+       width="2048"
+       height="2048" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3916"
+       inkscape:transform-center-x="-168.57934"
+       inkscape:transform-center-y="570.19599"
+       id="use3924"
+       transform="matrix(0,1,-1,0,2051.1167,15.5784)"
        width="2048"
        height="2048" />
   </g>
