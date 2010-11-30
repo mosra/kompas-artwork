@@ -673,11 +673,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="-27.479381"
-     inkscape:cy="163.83167"
+     inkscape:zoom="1"
+     inkscape:cx="41.167263"
+     inkscape:cy="96.990322"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1033"
@@ -698,7 +698,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -763,7 +763,7 @@
      style="display:inline">
     <path
        id="path3858"
-       style="fill:url(#radialGradient3915);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#radialGradient3915);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 164.422,123.75053 53.18426,-40.78814 c 14.35496,23.39165 41.37405,114.23198 -15.95315,147.69268 -9.00365,3.68298 -14.88454,4.57142 -22.61845,4.53786 -15.46779,-0.0671 -32.18348,-6.11736 -49.36486,-24.28164"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccsc" />
@@ -771,7 +771,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        d="M 194.94664,100.17349 C 177.81948,58.539669 147.64188,31.09819 102.33355,20.111389 136.59916,45.684988 157.85978,88.747891 164.95663,123.21615 z"
-       style="fill:url(#radialGradient3925);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       style="fill:url(#radialGradient3925);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        id="path3864" />
   </g>
   <g
