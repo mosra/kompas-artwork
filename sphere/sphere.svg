@@ -71,31 +71,79 @@
      id="namedview3056"
      showgrid="false"
      inkscape:zoom="1.1757813"
-     inkscape:cx="13.316247"
-     inkscape:cy="196.61826"
+     inkscape:cx="268.49122"
+     inkscape:cy="155.71514"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer5" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bitmap"
-     style="opacity:0.38461543;display:inline">
+     style="opacity:0.38461543;display:none">
     <image
-       sodipodi:absref="/home/mosra/C++/map2x/artwork/sphere/sphere.png"
+       sodipodi:absref="/home/mosra/C++/kompas/artwork/sphere/sphere.png"
        xlink:href="sphere.png"
+       width="512"
+       height="512"
+       id="image3062"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bitmap-fivesome"
+     style="opacity:0.43225806">
+    <image
        y="0"
        x="0"
-       id="image3062"
+       id="image3231"
+       xlink:href="file:///home/mosra/C++/kompas/artwork/sphere/sphere-fivesome.png"
        height="512"
        width="512" />
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="vectorize-fivesome">
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 255.36211,355.08306 c -181.60119,-5.66861 -196.140035,-215.95777 0,-233.46178"
+       id="path3234"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 255.14949,355.08307 c -78.08634,150.93669 -66.14911,-144.56529 0.8505,-233.46179"
+       id="path4006"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4008"
+       d="m 255.14949,355.08307 c 162.3729,80.07362 186.10695,-153.03786 0.8505,-233.46179"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 255.14949,355.08307 c 107.51576,-51.75362 165.69499,-258.0744 0.8505,-233.46179"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4012"
+       d="M 256.42523,354.65781 C 220.04663,291.36794 194.02606,62.155194 255.36211,121.62128"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="vectorize"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:3.01734114;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
