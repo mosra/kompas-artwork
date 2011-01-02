@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="welcome-640.svg"
-   inkscape:export-filename="/home/mosra/C++/map2x/artwork/welcome/export/welcome-640.png"
+   inkscape:export-filename="/home/mosra/C++/kompas/artwork/welcome/export/welcome-640.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -311,24 +311,6 @@
          offset="1"
          style="stop-color:#d39833;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter3837-4"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.74459452"
-         id="feGaussianBlur3839-0" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3829-8"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.95953497"
-         id="feGaussianBlur3831-5" />
-    </filter>
     <linearGradient
        id="linearGradient3847-6">
       <stop
@@ -664,32 +646,6 @@
          offset="1"
          style="stop-color:#006198;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter3839-5"
-       x="-0.27000001"
-       width="1.54"
-       y="-0.54000002"
-       height="2.0799999"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.2958776"
-         id="feGaussianBlur3841-6" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter3905-4"
-       x="-0.23999999"
-       width="1.48"
-       y="-0.71999997"
-       height="2.4399998"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="11.364216"
-         id="feGaussianBlur3907-6" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3909-2"
@@ -2303,15 +2259,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="140.56894"
-     inkscape:cy="217.12035"
+     inkscape:cx="320.75623"
+     inkscape:cy="246.05653"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -2348,7 +2304,19 @@
        height="177"
        x="4"
        y="862.57648" />
+    <path
+       style="fill:url(#linearGradient4191);fill-opacity:1;stroke:url(#radialGradient4173);stroke-width:1.50000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 78.533304,863.07646 482.933406,0"
+       id="path4145"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="slogan"
+     style="display:none">
     <text
+       transform="translate(0,-572.36218)"
        xml:space="preserve"
        style="font-size:17.09037399px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum;-inkscape-font-specification:Linux Biolinum"
        x="592.8429"
@@ -2359,22 +2327,18 @@
          x="592.8429"
          y="791.3678"
          id="tspan4112">Keeps you on the road.</tspan></text>
-    <path
-       style="fill:url(#linearGradient4191);fill-opacity:1;stroke:url(#radialGradient4173);stroke-width:1.50000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 78.533304,863.07646 482.933406,0"
-       id="path4145"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="logo">
+     inkscape:label="logo"
+     style="display:inline">
     <g
        id="g5793"
        transform="translate(29.999996,26)">
       <path
          transform="matrix(1.0463028,0,0,1.0463028,-2.6662889,-6.6608654)"
-         d="m 160.61425,199.93654 c 0,10.46047 -25.43967,18.94036 -56.82108,18.94036 -31.381418,0 -56.821082,-8.47989 -56.821082,-18.94036 0,-10.46047 25.439664,-18.94036 56.821082,-18.94036 31.38141,0 56.82108,8.47989 56.82108,18.94036 z"
+         d="m 160.61425,199.93654 a 56.821079,18.940361 0 1 1 -113.642162,0 56.821079,18.940361 0 1 1 113.642162,0 z"
          sodipodi:ry="18.940361"
          sodipodi:rx="56.821079"
          sodipodi:cy="199.93654"
@@ -2384,7 +2348,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(1.133317,0,0,0.9567221,4.5706474,18.805524)"
-         d="m 195.71705,210.54314 c 0,10.18152 -16.50752,18.43528 -36.87057,18.43528 -20.36305,0 -36.87057,-8.25376 -36.87057,-18.43528 0,-10.18153 16.50752,-18.43529 36.87057,-18.43529 20.36305,0 36.87057,8.25376 36.87057,18.43529 z"
+         d="m 195.71705,210.54314 a 36.870567,18.435284 0 1 1 -73.74114,0 36.870567,18.435284 0 1 1 73.74114,0 z"
          sodipodi:ry="18.435284"
          sodipodi:rx="36.870567"
          sodipodi:cy="210.54314"
@@ -2617,7 +2581,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="text">
+     inkscape:label="text"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:81.49916077px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lane Humouresque;-inkscape-font-specification:Lane Humouresque Bold"
@@ -2631,11 +2596,24 @@
          x="452.65329"
          y="148.65703"
          style="stroke-width:2">kompas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.45031357px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed"
+       x="572.55164"
+       y="215.89815"
+       id="text3951"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3953"
+         x="572.55164"
+         y="215.89815"
+         style="font-size:37.83773422px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">0.1</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="blur">
+     inkscape:label="blur"
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text4123"
