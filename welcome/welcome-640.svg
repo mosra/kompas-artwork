@@ -2280,7 +2280,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2338,7 +2338,7 @@
        transform="translate(29.999996,26)">
       <path
          transform="matrix(1.0463028,0,0,1.0463028,-2.6662889,-6.6608654)"
-         d="m 160.61425,199.93654 a 56.821079,18.940361 0 1 1 -113.642162,0 56.821079,18.940361 0 1 1 113.642162,0 z"
+         d="m 160.61425,199.93654 c 0,10.46047 -25.43967,18.94036 -56.82108,18.94036 -31.381418,0 -56.821082,-8.47989 -56.821082,-18.94036 0,-10.46047 25.439664,-18.94036 56.821082,-18.94036 31.38141,0 56.82108,8.47989 56.82108,18.94036 z"
          sodipodi:ry="18.940361"
          sodipodi:rx="56.821079"
          sodipodi:cy="199.93654"
@@ -2348,7 +2348,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(1.133317,0,0,0.9567221,4.5706474,18.805524)"
-         d="m 195.71705,210.54314 a 36.870567,18.435284 0 1 1 -73.74114,0 36.870567,18.435284 0 1 1 73.74114,0 z"
+         d="m 195.71705,210.54314 c 0,10.18152 -16.50752,18.43528 -36.87057,18.43528 -20.36305,0 -36.87057,-8.25376 -36.87057,-18.43528 0,-10.18153 16.50752,-18.43529 36.87057,-18.43529 20.36305,0 36.87057,8.25376 36.87057,18.43529 z"
          sodipodi:ry="18.435284"
          sodipodi:rx="36.870567"
          sodipodi:cy="210.54314"
@@ -2607,7 +2607,7 @@
          id="tspan3953"
          x="572.55164"
          y="215.89815"
-         style="font-size:37.83773422px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">0.1</tspan></text>
+         style="font-size:37.83773422px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Condensed">0.2</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
